@@ -1,10 +1,10 @@
 :root{
-    --white: #ddd;
+    --white: rgb(229, 227, 227);
     --dark: #111;
     --darkGrey: #474b4f;
     --lightGrey: #6b6e70;
-    --lightGreen: #86c232;
-    --darkGreen: #61892f;
+    --lightGreen: hsl(291, 100%, 50%);
+    --darkGreen: #2f7589;
     --transition: all 0.5s ease;
 }
 *{
@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .btn:hover{
     background: var(--darkGreen);
-    color: #fff;
+    color: rgb(246, 246, 246);
 }
 .active{
     color: var(--lightGreen)!important;
@@ -344,10 +344,10 @@ blockquote span{
     right: 0;
     color: #fff;
     padding: 5px 30px;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.451);
 }
 .singel-img-content h3{
-    font-size: 18px;
+    font-size: 3px;
     font-weight: 300;
     text-transform: uppercase;
 
