@@ -226,7 +226,7 @@ blockquote span{
 }
 .sec-one-left{
     height: 100vh;
-    background: url("images/IMG_3964.jpg") center/cover no-repeat;
+    background: url("images/Ballarina.JPG") center/cover no-repeat;
     -moz-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
@@ -266,12 +266,12 @@ blockquote span{
     grid-column-gap: 20px;
 }
 .work-img-1{
-  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)), url("images/308066929_904271170979139_802010462927698648_n.jpg") center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)), url("images/Billede\ af\ mig.jpg") center/cover no-repeat;
   height: 400px;
   transition: var(--transition);
 }
 .work-img-2{
-    background: url("images/_MG_6019.jpg") center/cover no-repeat;
+    background: url("images/Fri\ opgave\ håndbold\ Maja\ 2.jpg") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
   }
